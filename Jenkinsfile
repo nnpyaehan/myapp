@@ -7,7 +7,7 @@ pipeline {
 
     environment {
         DOCKER_IMAGE = "nyinyi1166/myapp"
-        VERSION = "${v2}"
+        VERSION = "v${2}"
     }
 
     stages {
