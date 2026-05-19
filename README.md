@@ -40,7 +40,7 @@ GitHub → Jenkins → Docker → Docker Hub → Kubernetes
 
 ---
 
-# Minikube Service
+# Kubernetes Service
 
 ![Service](screenshots/kubectl-service.png)
 
